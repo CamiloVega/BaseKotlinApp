@@ -1,0 +1,2 @@
+include ':app', ':powerrecycleradapter'
+rootProject.name='Power Adapter Demo'
